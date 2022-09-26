@@ -4,6 +4,8 @@ react v18.1.0
 
 react-native v0.70.1
 
+Installing:
+
 npm i
 
 chmod 755 android/gradlew
