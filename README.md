@@ -6,6 +6,15 @@ react-native v0.70.1
 
 npm i
 
-Run IOS: npm run ios
+chmod 755 android/gradlew
 
 Run Android: npm run android
+
+Before run ios: 
+
+1. cd ios
+2. pod install
+3. cd ..
+4. delete build folder
+
+Run IOS: npm run ios
