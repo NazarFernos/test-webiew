@@ -6,9 +6,9 @@ react-native v0.70.1
 
 Installing:
 
-npm i
+run npm i
 
-chmod 755 android/gradlew
+run chmod 755 android/gradlew
 
 Run Android: npm run android
 
